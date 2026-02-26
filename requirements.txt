@@ -1,0 +1,6 @@
+pdfplumber
+nltk
+scikit-learn
+joblib
+flask
+redis

@@ -1,0 +1,28 @@
+[
+    {
+        "texto": "Aprendizaje Supervisado.\nClasificación de textos\n1. La liebre y la tortuga\nÉrase una vez una liebre muy veloz que presumía de ello ante todos los animales del\nbosque. Un día, se encontró con una tortuga que caminaba muy despacio. La liebre\nse burló de su lentitud.\n—Hagamos una carrera y veamos quién gana —propuso la tortuga.\nAl empezar la carrera, la liebre salió disparada, mientras que la tortuga avanzó\nlentamente. Al ver que sacaba una gran ventaja a la tortuga, la liebre se paró en un\nárbol a descansar. La tortuga siguió avanzando, poco a poco y sin detenerse.\nCuando la liebre despertó, vio angustiada que la tortuga estaba a punto de llegar a la\nmeta. La liebre corrió y corrió, pero fue demasiado tarde. La tortuga cruzó la meta,\nagotada pero feliz.\n• Moraleja: De poco vale el talento sin esfuerzo. Esta fábula de Esopo nos\nenseña que, con perseverancia y con esfuerzo, podemos lograr nuestras\nmetas.\n2. Resumen\nAcaba de fallecer de manera apacible el maestro quindiano Hugo Zapata en el ámbito\níntimo de su hogar en El Retiro, a los 80 años, el 3 de junio de 2025. Habiendo\nrealizado estudios en el Instituto de Artes Plásticas de la Universidad de Antioquia\nentre 1963 y 1966, y graduado de arquitectura en la Sede Medellín de la Universidad\nNacional de Colombia en 1972, hizo parte de la denominada generación de artistas\nurbanos que trabajó en la ciudad de la eterna primavera durante la década de los\nsetenta y a partir de entonces forjó una senda plástica de gran impacto por la\nprofundidad de su mensaje estético y la calidad de su propuesta artística, que le\nvalieron un amplio reconocimiento en todos los círculos culturales y del arte nacional\ne internacional, con lo cual obtuvo, entre muchas distinciones, el Primer Premio del\nxxxii Salón Nacional de Artistas Colombianos en 1989; piezas suyas viajaron por\nColombia, Estados Unidos, México, Puerto Rico, Cuba, Venezuela, Brasil, Argentina,\nChile, España, Francia, Alemania, Inglaterra, Israel y Japón, donde se encuentran\nalgunas en colecciones privadas y de afamados museos.\n3. Es pequeña como un ratón, pero cuida las casas como un león. ¿Qué es?\n(Respuesta: La llave).\n",
+        "caracteristicas": {
+            "longitud_texto": 2147,
+            "num_palabras": 195,
+            "tiene_pregunta": true,
+            "num_preguntas": 1,
+            "tiene_dialogo": true,
+            "empieza_como_acertijo": false,
+            "palabra_romantica": false
+        },
+        "categoria": "desconocido"
+    },
+    {
+        "texto": "SOCIEDAD NACIONAL DE LA CRUZ ROJA COLOMBIANA\nUDSH -VOL-FO-001\nFormato Designación De Beneficiarios\nUnidad de Desarrollo Social y Humanitario\nVersión:04 FA: 29/07/2025\nVoluntariado\nDÍA MES AÑO Seccional:\nFecha de\ndiligenciamiento: Unidad Municipal/Grupo de Apoyo:\nINFORMACIÓN DEL TIPO DE VINCULACIÓN\nNota: Indique con una X a la cual pertenece (una sola opción):\nInfantil Juvenil Dama Gris Voluntario de Apoyo\nPrejuvenil Socorrista Directivo Miembro Honorario\nINFORMACIÓN DEL ASEGURADO VOLUNTARIO(A)\nNOMBRES Y APELLIDOS COMPLETOS:\nTIPO DE DOCUMENTO: NÚMERO DE DOCUMENTO:\nCC TI CE PA PEP PPT\nDESIGNACIÓN DE BENEFICIARIOS\nNOMBRES Y APELLIDOS COMPLETOS EDAD N° IDENTIFICACIÓN PARENTÉSCO % DE DESIGNACIÓN\nFIRMA ASEGURADO FIRMA ACUDIENTE\nVoluntario(a)\nNombres y apellidos\nCompletos Nombres y apellidos Completos\nN° IDENTIFICACIÓN\nNota\n- El formato debe ser diligenciado en su totalidad.\n- No debe tener enmendaduras, repisados o tachones.\n- Se debe asignar a cada beneficiario un % como desee, que sumado sea igual al 100%.\n- Para los voluntarios menores de edad, este formato debe estar firmado por el padre, la madre o persona legalmente responsable\nPágina 1 de 1\n",
+        "caracteristicas": {
+            "longitud_texto": 1160,
+            "num_palabras": 118,
+            "tiene_pregunta": false,
+            "num_preguntas": 0,
+            "tiene_dialogo": false,
+            "empieza_como_acertijo": false,
+            "palabra_romantica": false
+        },
+        "categoria": "desconocido"
+    }
+]
